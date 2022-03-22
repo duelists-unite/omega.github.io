@@ -1,9 +1,4 @@
-/*
-  Theme Name: Geco - eSports Gaming HTML5 Template.
-  Support: admin@gmail.com
-  Description: Geco - eSports Gaming HTML5 Template.
-  Version: 1.0
-*/
+
 
 /* CSS Index
 -----------------------------------
@@ -1375,7 +1370,7 @@ ul.minicart .cart-price .new {
 	left: auto;
 }
 .third-banner-bg {
-    background-image: url(../img/bg/bg.gif);
+    background-image: url(../img/bg/bg.jpg);
     background-position: center bottom;
     background-size: cover;
     position: relative;
@@ -4210,6 +4205,7 @@ ul.minicart .cart-price .new {
 .community-wrap table {
 	background: #fff;
 	box-shadow: 0px 2px 21px 0px rgba(59, 53, 63, 0.12);
+	border:  1px solid #ededed;
 }
 .community-wrap thead tr th {
 	vertical-align: middle;
